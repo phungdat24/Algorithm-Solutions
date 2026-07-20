@@ -9,4 +9,12 @@
 | [0584-find-customer-referee](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
