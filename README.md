@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1280-students-and-examinations](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1280-students-and-examinations/) | Easy |
