@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0180-consecutive-numbers](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0584-find-customer-referee/) | Easy |
