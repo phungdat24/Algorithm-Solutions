@@ -10,6 +10,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [1251-average-selling-price](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1934-confirmation-rate](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
