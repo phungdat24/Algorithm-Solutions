@@ -18,6 +18,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1934-confirmation-rate](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/phungdat24/Algorithm-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
