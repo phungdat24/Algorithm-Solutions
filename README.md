@@ -11,6 +11,7 @@
 | [0584-find-customer-referee](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1251-average-selling-price/) | Easy |
