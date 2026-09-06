@@ -18,6 +18,7 @@
 | [1251-average-selling-price](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1729-find-followers-count](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1934-confirmation-rate](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/phungdat24/Algorithm-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
