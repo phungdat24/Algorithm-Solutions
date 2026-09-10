@@ -38,4 +38,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3731-find-missing-elements](https://github.com/phungdat24/Algorithm-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
