@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [3731-find-missing-elements](https://github.com/phungdat24/Algorithm-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,17 +42,24 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
