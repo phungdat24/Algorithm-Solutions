@@ -11,6 +11,7 @@
 | [0584-find-customer-referee](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1075-project-employees-i](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
