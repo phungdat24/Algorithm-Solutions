@@ -63,4 +63,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
