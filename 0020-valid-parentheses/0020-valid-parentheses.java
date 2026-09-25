@@ -11,8 +11,11 @@ class Solution {
         return N == 0;
     }
     public boolean isValid(String s){
-        stack = new char[s.length()];
-        for(char c : s.toCharArray()){
+        int len = s.length();
+        if (len % 2 != 0) return false;
+        stack = new char[len];
+        for (int i = 0; i < len; i++) {
+            char c = s.charAt(i);
             if( c == '(' || c == '[' || c == '{'){
                 push(c);
             }
