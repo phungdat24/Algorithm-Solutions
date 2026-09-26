@@ -67,10 +67,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1544-make-the-string-great](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1544-make-the-string-great](https://github.com/phungdat24/Algorithm-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
