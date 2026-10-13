@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0130-surrounded-regions](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [3731-find-missing-elements](https://github.com/phungdat24/Algorithm-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -39,6 +40,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/phungdat24/Algorithm-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -77,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/phungdat24/Algorithm-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
